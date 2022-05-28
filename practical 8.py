@@ -1,4 +1,5 @@
 # practical 8
+# write a program to catch divide by zero exeception also use finally block.
 
 try:
     a = int(input("Enter a number: "))
