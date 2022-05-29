@@ -2,7 +2,7 @@
 # Write a program to calculate the sum of elements within a list.Catch all necessarry exceptions.
 
 try:
-    n = int(input("Enter a number of element of list: "))
+    n = int(input("Enter a number of element in list: "))
     s = []
 
     for j in  range(n):
