@@ -10,4 +10,4 @@ for j in range(n):
       
 tuple(t)
 print("maximum number of tuple is",max(t))
-print("maximum number of tuple is",min(t))
+print("manimum number of tuple is",min(t))
