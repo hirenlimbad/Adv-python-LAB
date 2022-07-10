@@ -17,9 +17,12 @@ while True:
 
 	for j in line:
 		l1.append(j)
-
-l1.sort()
 fp1.close()
+
+l1 = set(l1)
+l1 = list(l1)
+l1.sort()
+
 
 l1 = set(l1)	
 print('Below printed every word in alphabetical order...')
