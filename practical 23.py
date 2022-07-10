@@ -21,6 +21,7 @@ while True:
 l1.sort()
 fp1.close()
 
+l1 = set(l1)	
 print('Below printed every word in alphabetical order...')
 for b in l1:
 	print(b)
