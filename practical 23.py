@@ -23,8 +23,7 @@ l1 = set(l1)
 l1 = list(l1)
 l1.sort()
 
-
-l1 = set(l1)	
+	
 print('Below printed every word in alphabetical order...')
 for b in l1:
 	print(b)
