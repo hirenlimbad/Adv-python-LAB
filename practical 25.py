@@ -18,8 +18,11 @@ fp.close()
 fp = open('student.txt','rb')
 dict2 = pickle.load(fp)
 fp.close()
+
+
 try:
 	search = int(input('Search roll number: '))
+	print('below printed finded roll number and name...')
 	print(search,dict2[search])
 except KeyError:
 	print('No roll number found...')
