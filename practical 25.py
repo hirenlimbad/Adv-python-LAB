@@ -7,7 +7,7 @@ n = int(input('how many students you have...'))
 dict1 = {}
 
 for j in range(1,n+1):
-
+	print('for roll number',j)
 	l1 = input('Enter student name: ')
 
 	dict1[j] = l1
