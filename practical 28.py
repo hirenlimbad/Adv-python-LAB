@@ -1,3 +1,4 @@
+# draw a chess-board using turtle module
 import turtle as t
 t.shapesize(3)
 t.shape('square')
