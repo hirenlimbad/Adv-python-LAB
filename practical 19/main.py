@@ -1,4 +1,7 @@
-from  Demopackage import greets as d
+# Create a package named DemoPackage which contains two modules named mathematics and greets. The mathematics module contains sum, average, power functions, and the greets module contains the sayHello function.
+# a) import the module from a package to another program.
+# b) import a specific function from a module.
+# from  Demopackage import greets as d
 
 d.sayhello()
 d.sayhelloto("Hiren")
