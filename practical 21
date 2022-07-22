@@ -1,8 +1,0 @@
-import urllib3
-
-b = urllib3.PoolManager()
-r = b.request('GET', 'http://google.com')
-f = r.status
-    
-print("status of url is:",f)
-print('finished')
