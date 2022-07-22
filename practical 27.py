@@ -1,3 +1,4 @@
+# Draw an indian flag and an olympic symbol using Turtle
 def flag():
 	import turtle as t
 
