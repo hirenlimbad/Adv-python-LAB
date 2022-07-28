@@ -1,3 +1,10 @@
+# Write a program to carry out following Operations on a Python Set.
+# Union Operation
+# Intersection Operation
+# Symmetric Difference Operation
+# IsDisjoint Operation
+# IsSubset Operation
+
 a = []
 b = []
 
