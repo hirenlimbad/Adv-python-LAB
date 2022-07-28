@@ -1,4 +1,4 @@
-# pYTHON p 13:-Write a program to carry out following tasks on a Python Dictionary.
+# Write a program to carry out following tasks on a Python Dictionary.
 # Access items of Dictionary
 # Adding item in Dictionary
 # Changing Values in Dictionary
